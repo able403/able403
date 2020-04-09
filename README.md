@@ -1,2 +1,5 @@
 # able403
-i want to be stronger
+A new python'boy
+Just want to be better
+
+
