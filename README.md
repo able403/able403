@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 #### Achievement
--CVE 
+- CVE 
 ```
 CVE-2021-46013
 ```
